@@ -1,0 +1,7 @@
+{
+  "doctor1" : { "start" : "7", "end" : "12"},
+  "doctor2" : { "start" : "10", "end" : "18"},
+  "doctor3" : { "start" : "14", "end" : "20"},
+  "doctor4" : { "start" : "7", "end" : "14"},
+  "doctor5" : { "start" : "15", "end" : "21"}
+}

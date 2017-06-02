@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+
+h1{
+    margin: 0 auto;
+    padding: 30px 0;
+}
+#out{
+    margin: 30px 0;
+    color: #64B5F6;
+}
+
+.page-footer{
+    padding-top: 0;
+    background-color: #64B5F6;
+}
+.dropdown-content li>a, .dropdown-content li>span {
+    font-size: 14px;
+    color: #64B5F6;
+}
+
+/*.error{*/
+    /*margin-top: 70px;*/
+/*}*/
+/*.error h2{*/
+    /*color: #64B5F6;*/
+    /*font-size: 32px;*/
+/*}*/
+/*.error p{*/
+    /*color: #64B5F6;*/
+    /*font-size: 28px;*/
+/*}*/
+footer a, header a{
+    color: #ffffff;
+}
